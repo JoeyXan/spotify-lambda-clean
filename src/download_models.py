@@ -10,8 +10,8 @@ import pandas as pd
 import time
 from pathlib import Path
 
-GITHUB_USER = "JoeyXan"            # tu usuario
-GITHUB_REPO = "spotify-recommender-lambda"  # repo
+GITHUB_USER = "JoeyXan"            
+GITHUB_REPO = "spotify-lambda-clean"
 RELEASE_TAG = "v1.0"
 
 # Ajustes
