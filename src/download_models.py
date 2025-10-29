@@ -11,13 +11,13 @@ import time
 from pathlib import Path
 
 GITHUB_USER = "JoeyXan"            
-GITHUB_REPO = "spotify-lambda-clean"
+GITHUB_REPO = "JoeyXan/spotify-lambda-clean"
 RELEASE_TAG = "v1.0"
 
 # Ajustes
 MODELS_DIR = "models"
 RETRY_TIMES = 3
-RETRY_DELAY = 3  # segundos
+RETRY_DELAY = 3  
 MIN_PKL_BYTES = 400  # scaler.pkl tiene ~926 bytes — aceptar tamaños pequeños pero > MIN_PKL_BYTES
 
 def get_release_assets(user, repo, tag):
