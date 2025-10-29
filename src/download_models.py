@@ -12,7 +12,7 @@ from pathlib import Path
 
 GITHUB_USER = "JoeyXan"            
 GITHUB_REPO = "JoeyXan/spotify-lambda-clean"
-RELEASE_TAG = "v1.0"
+RELEASE_TAG = "Modelos pre-entrenados v1.0"
 
 # Ajustes
 MODELS_DIR = "models"
