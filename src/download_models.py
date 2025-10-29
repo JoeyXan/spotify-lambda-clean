@@ -10,7 +10,7 @@ from pathlib import Path
 
 # URL base de GitHub Releases
 # Actualizar con tu usuario de GitHub después de subir los archivos
-GITHUB_USER = "TU-USUARIO"  # Cambiar por tu usuario de GitHub
+GITHUB_USER = "JoeyXan"  # Cambiar por tu usuario de GitHub
 GITHUB_REPO = "spotify-recommender-lambda"
 RELEASE_TAG = "v1.0"
 
